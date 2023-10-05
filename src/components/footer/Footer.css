@@ -1,0 +1,33 @@
+.fondo{
+    margin-top: 80px;
+    margin-bottom: 70px;
+    border-top: 1px solid var(--color-primary);
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    padding-top: 30px;
+}
+
+.fondo2{
+    margin-right: 400px;
+}
+
+.contacto{
+    font-weight: 900;
+    font-style: italic;
+}
+
+.social{
+    display: flex;
+    flex-direction: column;
+    gap: 0.5rem;
+}
+
+
+
+
+
+
+
+

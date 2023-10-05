@@ -1,0 +1,34 @@
+.páginas{
+    display: flex;
+    flex-direction: row;
+    gap: 1.3rem;
+    margin-left: 50px;
+    margin-right: 50px;
+    margin-bottom: 20px;
+}
+
+.página{
+    text-align: center;
+    border: 2px solid;
+    border-color: var(--color-primary);
+    border-radius: 10px;
+    padding-bottom: 20px;
+}
+
+.página:hover{
+    background-color: var(--color-bg-variant);
+    border: 2px solid;
+    transition: 0.3s;
+}
+
+.imagen{
+    border-radius: 10px;
+    margin-bottom: 20px;
+}
+
+.contenedor{
+    padding-top: 50px;
+}
+
+
+

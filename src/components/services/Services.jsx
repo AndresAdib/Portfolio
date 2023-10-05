@@ -16,7 +16,7 @@ export const Services = () => {
 
           <ul className='service_list'>
             <li>
-              <AiFillCheckCircle />
+              <AiFillCheckCircle className='service_list-icon'/>
               <p>Creo la interfaz de un sitio web o aplicación atravez de código,
                 dando la estructura del sitio con HTML y creando su diseño con CSS, al igual
                 que agregar caracteristicas interactivas atravez de JavaScript.
@@ -33,7 +33,7 @@ export const Services = () => {
 
           <ul className='service_list'>
             <li>
-              <AiFillCheckCircle />
+              <AiFillCheckCircle className='service_list-icon'/>
               <p>Creo la infraestructura de un sitio web y mantengo actualizada la
                 información sobre la arquitectura del producto digital, sus procesos y los 
                 sistemas integrados al mismo.
